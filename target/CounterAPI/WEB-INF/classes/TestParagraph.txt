@@ -1,0 +1,1 @@
+How to find the maximum number of word in a file. The word which occurs maximum will be the highest among all the word. This is the sample program to find the same.
